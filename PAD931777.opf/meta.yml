@@ -1,0 +1,28 @@
+id: PAD931777
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA10919
+  instance_id: http://purl.bdrc.io/resource/IE10919
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P889
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d9f11cd8afd246468e9c68ff4461a025:
+      title: ༄༅།་།ཆོས་མངོན་པའི་མཛོད་ཀྱི་རྣམ་པར་བཤད་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ་མཁྱེན་བརྩེའི་ཞལ་ལུང་གཞོན་ནུ་རྣམ་རོལ་ལེགས་བཤད་ཆོས་མིག་རྣམ་འབྱ
+      volume_number: 1
+      base_file: UT10919_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL83F88BE2FAB3D8B3
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW10919
+  - http://purl.bdrc.io/resource/W10919
+created_at: '2021-12-22T10:22:04.434642'
+last_modified_at: '2021-12-22T10:22:04.434650'
